@@ -1,0 +1,14 @@
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\FunDooAPP\FunDooApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
